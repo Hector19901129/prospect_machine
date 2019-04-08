@@ -1,0 +1,13 @@
+/*    admin styles    */
+
+tr td input.w-75{
+  width: 75px;
+}
+
+tr td input.w-100{
+  width: 100px;
+}
+
+table.widefat tr td, table.widefat tr td{
+  padding: 8px 5px;
+}
